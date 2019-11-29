@@ -1,0 +1,69 @@
+{
+    "produtos": [ 
+        {
+            "id": 1,
+            "title": "Computador Gamer Acer Intel Core i7",
+            "marca": "Acer",
+            "modelo": "GX-783-BR13",
+            "so": "Windows 10 Home",
+            "processador": "Intel Core i7-7700",
+            "placa_Video": "NVIDIA GeForce GTX 1060",
+            "memoria": "DDR4",
+            "placa_mae": "H110, SKD Gigabyte",
+            "img": "ComputadorGamerAcerIntelCorei7.jpg",
+            "preco": 4.099
+        },
+        {
+            "id": 2,
+            "title": "Computador Gamer G-Fire AMD A6-7400K",
+            "marca": "G-Fire",
+            "modelo": "HTAVA-R83",
+            "so": "Linux",
+            "processador": "AMD A6 7400K",
+            "placa_Video": "AMD Radeon R5",
+            "memoria": "DDR3",
+            "placa_mae": "SOCKET FM2+",
+            "img": "ComputadorGamerG-FireAMDA6-7400K.jpg",
+            "preco": 1.743
+        },
+        {
+            "id": 3,
+            "title": "Computador Gamer NTC Vulcano II 7109",
+            "marca": "NTC",
+            "modelo": "7109",
+            "so": "Windows 10 PRO 64 Bits (Versão de Avaliação 30 Dias)",
+            "processador": "Intel Core i7 8700 (1151 / 3.2GHz - 4.60Ghz / 12 MB Cache L3)",
+            "placa_Video": "Onboard - Intel UHD Graphics 630",
+            "memoria": "DDR4",
+            "placa_mae": "Gigabyte H310M-M2 2.0",
+            "img": "ComputadorGamerNTCVulcanoII7109.jpg",
+            "preco": 3.299
+        },
+        {
+            "id": 4,
+            "title": "Computador Gamer G-fire AMD A8-9600",
+            "marca": "G-Fire",
+            "modelo": "HTG-R309",
+            "so": "Linux",
+            "processador": "AMD A8 9600 3.1/3.4 GHz",
+            "placa_Video": "AMD Radeon R7",
+            "memoria": "DDR4",
+            "placa_mae": "Socket AM4",
+            "img": "ComputadorGamerG-fireAMDA8-9600.jpg",
+            "preco": 2.219
+        },
+        {
+            "id": 5,
+            "title": "Computador Maingear Vybe Intel Core i9 9900K",
+            "marca": "Maingear",
+            "modelo": "MG-Vybe3",
+            "so": "VAZIO",
+            "processador": "Intel Core i9 9900K",
+            "placa_Video": "NVidia GForce RTX 2070 8GB",
+            "memoria": "DDR4",
+            "placa_mae": "VAZIO",
+            "img": "ComputadorMaingearVybeIntelCorei99900K.jpg",
+            "preco": 14.999
+        }
+    ]
+}
